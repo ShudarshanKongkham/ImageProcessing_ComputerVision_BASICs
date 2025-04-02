@@ -1,0 +1,4 @@
+**/*.weights
+**/*.pb
+**/*.cfg
+DeepLearning_OpenCV/models/
